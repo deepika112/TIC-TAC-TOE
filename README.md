@@ -6,3 +6,5 @@ Player 1 goes with **'X'**
 Player 2 goes with **'O'**
 
 Enter the position number to  where you want X/O to be inserted and the value will be inserted at the location.
+
+Data structure used: 2D Array
