@@ -1,5 +1,5 @@
 # TIC-TAC-TOE
-The programe is a TIC-TAC-TOE game, built on C++ language.
+The programe is a TIC-TAC-TOE game, written in C++ language.
 
 Player 1 goes with **'X'**
 
